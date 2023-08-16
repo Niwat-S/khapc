@@ -1,0 +1,7 @@
+@import './base.css';
+@import'./Car.css';
+@import'./navbar.css'; 
+@font-face{
+    font-family: "TESLA";
+    src:url(../font/TESLA.ttf)
+}
